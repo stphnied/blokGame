@@ -1,0 +1,12 @@
+ALAIN PHAM		gr 1
+STÉPHANIE DANG 	gr 2
+
+On a pensé inclure un bouton pour mettre le jeu en pause.
+Pour une raison inconnue, le jeu peut se mettre en pause, mais pas se réactiver.
+Il se passe la même chose pour le bouton plein-écran : possible d'entrer, mais
+pas d'en sortir.
+
+LIEN WEBDEV: https://e1448204.webdev.cmaisonneuve.qc.ca/pa3/TP2/
+
+=== SOURCES ===
+Musique: https://www.youtube.com/watch?v=hdZLNZBZFlY - 8 Bit Think! by HeatleyBros
